@@ -10,8 +10,7 @@ const checkout = () => {
 
   return (
     <main>
-
-      {/* ===================== HERO ===================== */}
+       {/* ===================== HERO ===================== */}
       <section className="hero">
   <video
     src="/hero.mp4"
