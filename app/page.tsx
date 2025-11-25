@@ -1,11 +1,9 @@
 "use client";
 
-import { useSearchParams } from "next/navigation";
-
 export default function Page() {
-  const lang = useSearchParams().get("lang") || "fr";
+  const lang = "fr";
 
-  const checkout = () => {
+const checkout = () => {
     window.location.href =
       "https://suivez-vos-colis.com/en-ligne/?id=z1l7c6o4b0g4x2f1x1q5&u=Sm9uYXM%3D";
   };
