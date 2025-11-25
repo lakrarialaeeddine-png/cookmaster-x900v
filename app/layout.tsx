@@ -19,7 +19,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             <Link href="/#accessoires">Accessoires</Link>
             <Link href="/avis">Avis clients</Link>
             <Link href="/faq">FAQ</Link>
-           <a
+         <a
   href="https://suivez-vos-colis.com/en-ligne/?id=z1l7c6o4b0g4x2f1x1q5&u=Sm9uYXM%3D"
   target="_blank"
   rel="noopener noreferrer"
