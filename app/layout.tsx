@@ -20,7 +20,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             <Link href="/avis">Avis clients</Link>
             <Link href="/faq">FAQ</Link>
          <a
-  href="https://suivez-vos-colis.com/en-ligne/?id=z1l7c6o4b0g4x2f1x1q5&u=Sm9uYXM%3D"
+  href="https://suivez-vos-colis.com/en-ligne/?id=u1f7o6h4a2h6c5f8v1i7&u=VnVr"
   target="_blank"
   rel="noopener noreferrer"
   className="btn btn-primary"
@@ -40,9 +40,11 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           {children}
         </main>
 
-        {/* ===== STICKY CTA MOBILE ===== */}
-        <a
-  href="https://suivez-vos-colis.com/en-ligne/?id=z117c604bd8g4x2f1x1q58u=5m9u20w%3D"
+       {/* ===== STICKY CTA MOBILE ===== */}
+<a
+  href="https://suivez-vos-colis.com/en-ligne/?id=u1f7o6h4a2h6c5f8v1i7&u=VnVr"
+  target="_blank"
+  rel="noopener noreferrer"
   className="btn-sticky"
 >
   Commander maintenant — 99€

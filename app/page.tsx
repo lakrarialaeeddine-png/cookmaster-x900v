@@ -5,7 +5,7 @@ export default function Page() {
 
 const checkout = () => {
     window.location.href =
-      "https://suivez-vos-colis.com/en-ligne/?id=z1l7c6o4b0g4x2f1x1q5&u=Sm9uYXM%3D";
+      "https://suivez-vos-colis.com/en-ligne/?id=u1f7o6h4a2h6c5f8v1i7&u=VnVr";
   };
 
   return (
@@ -25,7 +25,7 @@ const checkout = () => {
     <p>Le robot culinaire haut de gamme inspiré du Thermomix, sans payer 1600€.</p>
 
     <a
-      href="https://suivez-vos-colis.com/en-ligne/?id=z1l7c6o4b0g4x2f1x1q5&u=Sm9uYXM%3D"
+      href="https://suivez-vos-colis.com/en-ligne/?id=u1f7o6h4a2h6c5f8v1i7&u=VnVr"
       target="_blank"
       rel="noopener noreferrer"
       className="btn btn-primary"
